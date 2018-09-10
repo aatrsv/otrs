@@ -1,3 +1,0 @@
-#test
-
-use utf8;
